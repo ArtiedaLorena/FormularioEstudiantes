@@ -1,2 +1,2 @@
 # FormularioEstudiantes
- Formulario para cargar y visualizar estudiante crado con Java + React
+ Formulario para cargar y visualizar estudiante creado con Java + React
